@@ -19,9 +19,13 @@ A PR is a request for someone else's time. Respect it.
 
 **Scope:** A PR that does one thing is reviewed faster and merged sooner than one that does five. If you find yourself writing "also..." in the description, consider splitting.
 
+For code quality expectations on what "ready" means, see `good:good-quality`.
+
 ## Writing the Description
 
 **The reviewer is starting cold.** They don't have your context. Give it to them.
+
+Apply `good:good-writing` — plain language, active voice, one idea per sentence.
 
 ### Required sections:
 
