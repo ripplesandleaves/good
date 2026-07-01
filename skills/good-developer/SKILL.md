@@ -24,6 +24,7 @@ By invoking this skill you are committing to apply all of the following Good plu
 | `good:good-review` | Reviewing a code change or pull request |
 | `good:good-pr` | Preparing or writing a pull request |
 | `good:good-writing` | Writing commit messages, comments, docs, or any developer text |
+| `good:good-sweep` | Auditing an existing codebase for security and robustness issues to fix proactively |
 
 ## How to Use
 
