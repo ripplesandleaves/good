@@ -73,6 +73,7 @@ Do not skip diagnosis under pressure. Guessing under pressure is how outages get
 ## Quality Gates
 Align fix with `good:good-code` — a fix that introduces its own smell is a liability.
 Align fix with `good:good-security` — security fixes must be reviewed against the checklist.
+Align fix with `good:good-quality` — run the verification suite and confirm the fix holds under real conditions.
 
 ## Red Flags
 - Fix committed without a test
