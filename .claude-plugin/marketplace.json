@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "good",
-      "description": "11 skills codifying high-impact software development best practices: code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, and PRs.",
+      "description": "12 skills codifying high-impact software development best practices: code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, and PRs.",
       "author": {
         "name": "Andrea Ross",
         "email": "andrea@ripplesandleaves.ca"

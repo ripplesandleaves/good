@@ -1,13 +1,13 @@
 {
   "name": "good",
-  "description": "High-impact software development best practices — 11 skills covering code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, and PRs.",
+  "description": "High-impact software development best practices — 12 skills covering code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, and PRs.",
   "version": "1.0.0",
   "author": {
     "name": "Andrea Ross",
     "email": "andrea@ripplesandleaves.ca"
   },
-  "homepage": "https://github.com/andreaross/good",
-  "repository": "https://github.com/andreaross/good",
+  "homepage": "https://github.com/ripplesandleaves/good",
+  "repository": "https://github.com/ripplesandleaves/good",
   "license": "Apache-2.0",
   "keywords": [
     "best-practices",

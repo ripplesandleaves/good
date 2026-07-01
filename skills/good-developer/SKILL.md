@@ -46,3 +46,11 @@ These skills together define what "good" looks like for software development:
 - Reviews are thorough, professional, and actionable
 - PRs are clear, scoped, and respectful of reviewers' time
 - All writing is plain, concise, and reader-first
+
+## Red Flags
+
+- Implementing before `good:good-requirements` has surfaced what's actually needed
+- Writing code before `good:good-plan` has made the approach explicit
+- Applying a fix without `good:good-debug` having found the root cause
+- Merging without `good:good-review` having checked correctness, security, and design
+- Opening a PR without reading your own diff and running the `good:good-pr` checklist

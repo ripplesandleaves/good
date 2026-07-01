@@ -1,6 +1,6 @@
 ---
 name: good-plan
-description: Use before implementing any non-trivial feature or change — to think through approach, decompose the work, and produce a plan an engineer can execute without ambiguity
+description: Use when about to implement any non-trivial feature or change — to think through approach, decompose the work, and produce a plan an engineer can execute without ambiguity
 ---
 
 # Good Plan
