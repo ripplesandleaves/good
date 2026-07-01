@@ -27,7 +27,7 @@ For code quality expectations on what "ready" means, see `good:good-quality`.
 
 Apply `good:good-writing` — plain language, active voice, one idea per sentence.
 
-### Required sections:
+### Required sections
 
 **What this does** — one to three sentences, in plain language. What is the user/system behavior change? Not what files changed.
 ```
@@ -49,7 +49,7 @@ Uses a sliding window counter in Redis with a 1-hour TTL. Key is `rate:{ip}`. Re
 Unit tests cover the counter logic. Integration test covers the 429 response. Tested manually with `ab -n 200 /api/resource`.
 ```
 
-### Optional but high-value:
+### Optional but high-value
 - Screenshots for UI changes
 - Link to the issue, ticket, or context that motivated this
 - Known limitations or follow-up work

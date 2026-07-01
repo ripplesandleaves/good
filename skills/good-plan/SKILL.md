@@ -64,7 +64,7 @@ Before handing off a plan, verify:
 - [ ] No task depends on another that hasn't been defined
 - [ ] Every file path is exact and complete
 - [ ] Every code example is complete — no "fill in here"
-- [ ] No placeholders, no "TBD", no "similar to above"
+- [ ] No placeholders, no deferred sections, no "similar to above"
 - [ ] Security and quality requirements from `good:good-security` and `good:good-quality` are represented
 
 ## Red Flags
