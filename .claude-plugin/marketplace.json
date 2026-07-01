@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "good",
+  "description": "High-impact software development best practices for Claude Code",
+  "owner": {
+    "name": "Andrea Ross",
+    "email": "andrea@ripplesandleaves.ca"
+  },
+  "plugins": [
+    {
+      "name": "good",
+      "description": "11 skills codifying high-impact software development best practices: code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, and PRs.",
+      "author": {
+        "name": "Andrea Ross",
+        "email": "andrea@ripplesandleaves.ca"
+      },
+      "category": "development",
+      "source": "./"
+    }
+  ]
+}
