@@ -1,6 +1,6 @@
 # good
 
-A Claude Code plugin of high-impact software development best practices — clear principles and guardrails for writing, designing, securing, planning, and reviewing software.
+A Claude Code plugin of high-impact software development best practices. It contains clear principles and guardrails for writing, designing, securing, planning, and reviewing software.
 
 Licensed under the [Apache License 2.0](LICENSE).
 
