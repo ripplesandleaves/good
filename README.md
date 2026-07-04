@@ -6,7 +6,7 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 ## What's Included
 
-12 skills covering the full development lifecycle:
+13 skills covering the full development lifecycle:
 
 | Skill | Invoke with | What it does |
 |-------|------------|--------------|
@@ -22,6 +22,7 @@ Licensed under the [Apache License 2.0](LICENSE).
 | good-plan | `/good:good-plan` | Technical design decisions + task-level implementation planning |
 | good-review | `/good:good-review` | Holistic code review: correctness, security, design, quality |
 | good-pr | `/good:good-pr` | PR readiness, writing clear descriptions, communicating decisions |
+| good-sweep | `/good:good-sweep` | Proactive security and robustness audit — scan, triage, fix top issues |
 
 ## Install
 

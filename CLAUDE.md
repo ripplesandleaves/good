@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repository Is
 
-A Claude Code plugin ("good") containing 12 skills that codify high-impact software development best practices. Each skill is a Markdown file loaded by Claude Code at invocation time to guide an AI agent's behavior for a specific type of task.
+A Claude Code plugin ("good") containing 13 skills that codify high-impact software development best practices. Each skill is a Markdown file loaded by Claude Code at invocation time to guide an AI agent's behavior for a specific type of task.
 
 ## CI Checks
 
@@ -36,6 +36,12 @@ Every skill lives at `skills/<skill-name>/SKILL.md`. The validator enforces:
 ## Registry Sync
 
 `good-developer/SKILL.md` contains a table listing every other skill via backtick references like `` `good:good-code` ``. The validator (`validate_registry` in `scripts/validate-skills.py`) diffs that table against the actual directories in `skills/`. Adding or removing a skill requires updating both the directory and the `good-developer` table.
+
+## Releasing Changes
+
+Installed copies of the plugin are cached by version (e.g. `~/.claude/plugins/cache/good/good/1.0.0/`), so users don't pick up changes until the version number changes. On any user-visible change, bump `version` in `.claude-plugin/plugin.json`.
+
+When adding or removing a skill, also update the skill count and topic list in four places: `plugin.json`, `marketplace.json`, `CLAUDE.md` (What This Repository Is), and the `README.md` skill table.
 
 ## Skill Content Bar
 

@@ -1,7 +1,7 @@
 {
   "name": "good",
-  "description": "High-impact software development best practices — 12 skills covering code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, and PRs.",
-  "version": "1.0.0",
+  "description": "High-impact software development best practices — 13 skills covering code, architecture, security, quality, writing, debugging, fixing, requirements, planning, review, PRs, and codebase audits.",
+  "version": "1.1.0",
   "author": {
     "name": "Andrea Ross",
     "email": "andrea@ripplesandleaves.ca"
